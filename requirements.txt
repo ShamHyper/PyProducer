@@ -1,0 +1,6 @@
+librosa
+colorama
+clear
+soundfile
+numpy
+
